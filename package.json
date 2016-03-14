@@ -1,0 +1,14 @@
+{
+  "name": "dctb-node-mongo",
+  "version": "1.0.0",
+  "description": "Just a simple example with usage of mongodb, mongoose and NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Cezar <diogo@diogocezar.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.4.7"
+  }
+}
